@@ -1,1 +1,2 @@
-https://www.google.com
+foo:
+    qux: https://www.google.com/search?q=bletch

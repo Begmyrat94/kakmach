@@ -1,2 +1,4 @@
-foo:
-    qux: https://www.google.com/search?q=bletch
+import urllib
+
+def open():
+    return urllib.urlopen('http://example.com')

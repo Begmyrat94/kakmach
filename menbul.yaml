@@ -1,4 +1,0 @@
-import urllib
-
-def open():
-    return urllib.urlopen('http://example.com')
